@@ -1,0 +1,5 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=handc.database.windows.net;Initial Catalog=hawesandcurtis;Integrated Security=False;Persist Security Info=False;User ID=_sigiriya;Password=Doolittle.321",
+  "RawDataSettings": {}
+}
